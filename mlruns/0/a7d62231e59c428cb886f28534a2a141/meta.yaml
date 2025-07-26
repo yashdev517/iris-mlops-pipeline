@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/YASHDEV/OneDrive/Desktop/Mlops_Assignment/iris-mlops-pipeline/mlruns/0/a7d62231e59c428cb886f28534a2a141/artifacts
+end_time: 1753560876293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7d62231e59c428cb886f28534a2a141
+run_name: agreeable-fly-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753560864809
+status: 3
+tags: []
+user_id: YASHDEV

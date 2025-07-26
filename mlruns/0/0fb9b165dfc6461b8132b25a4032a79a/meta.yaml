@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/YASHDEV/OneDrive/Desktop/Mlops_Assignment/iris-mlops-pipeline/mlruns/0/0fb9b165dfc6461b8132b25a4032a79a/artifacts
+end_time: 1753560673292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fb9b165dfc6461b8132b25a4032a79a
+run_name: gifted-auk-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753560660620
+status: 3
+tags: []
+user_id: YASHDEV

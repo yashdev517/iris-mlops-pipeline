@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/YASHDEV/OneDrive/Desktop/Mlops_Assignment/iris-mlops-pipeline/mlruns/0/15ed97a70ff34c27975507976e522595/artifacts
+end_time: 1753561371590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15ed97a70ff34c27975507976e522595
+run_name: luminous-moth-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753561356660
+status: 3
+tags: []
+user_id: YASHDEV

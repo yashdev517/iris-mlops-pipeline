@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/YASHDEV/OneDrive/Desktop/Mlops_Assignment/iris-mlops-pipeline/mlruns/0/6218998e02474f8bb9244daa6bb280d3/artifacts
+end_time: 1753561379996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6218998e02474f8bb9244daa6bb280d3
+run_name: chill-pug-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753561371635
+status: 3
+tags: []
+user_id: YASHDEV

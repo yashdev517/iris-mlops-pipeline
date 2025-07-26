@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/YASHDEV/OneDrive/Desktop/Mlops_Assignment/iris-mlops-pipeline/mlruns/0/fe7b7b4324cf4e339cef96f85bfa1996/artifacts
+end_time: 1753560681776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe7b7b4324cf4e339cef96f85bfa1996
+run_name: spiffy-donkey-399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753560673342
+status: 3
+tags: []
+user_id: YASHDEV

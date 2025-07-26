@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/YASHDEV/OneDrive/Desktop/Mlops_Assignment/iris-mlops-pipeline/mlruns/0/b9191b72b1414d158fef16e57c58db90/artifacts
+end_time: 1753559822539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9191b72b1414d158fef16e57c58db90
+run_name: sassy-bee-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753559813580
+status: 3
+tags: []
+user_id: YASHDEV

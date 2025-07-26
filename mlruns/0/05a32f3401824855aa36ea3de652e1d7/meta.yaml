@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/YASHDEV/OneDrive/Desktop/Mlops_Assignment/iris-mlops-pipeline/mlruns/0/05a32f3401824855aa36ea3de652e1d7/artifacts
+end_time: 1753560884815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05a32f3401824855aa36ea3de652e1d7
+run_name: brawny-dove-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753560876342
+status: 3
+tags: []
+user_id: YASHDEV

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/YASHDEV/OneDrive/Desktop/Mlops_Assignment/iris-mlops-pipeline/mlruns/0/models/m-23481517cc5049219882c8c120304b12/artifacts
+creation_timestamp: 1753561356968
+experiment_id: '0'
+last_updated_timestamp: 1753561371574
+model_id: m-23481517cc5049219882c8c120304b12
+model_type: null
+name: model
+source_run_id: 15ed97a70ff34c27975507976e522595
+status: 2
+status_message: null
